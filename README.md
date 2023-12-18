@@ -7,3 +7,7 @@
 # Обучение
 ![Сертификат аналитик данных рус_page-0001](https://github.com/SvetlanaSuntsova/SvetlanaSuntsova/assets/152259002/bc1aa589-3513-470e-931c-7e0fa33b2189)
 
+![Поколение Python курс для продвинутых_page-0001](https://github.com/SvetlanaSuntsova/SvetlanaSuntsova/assets/152259002/d5de45a0-b05f-48b5-aa5a-877d07909b7f)
+
+
+
