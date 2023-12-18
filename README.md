@@ -5,5 +5,3 @@
 #### https://t.me/Svet_lana897
 
 
-[Сертификат аналитик данных рус.pdf](https://github.com/SvetlanaSuntsova/SvetlanaSuntsova/files/13706601/default.pdf)
-
