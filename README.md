@@ -1,4 +1,10 @@
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTl3ODZvbXRoNDFjNnltcXd5ZWM2bzF6cjB2OWd5bHpjaWQ4ejRnbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8N0nUKt9kDWhl8sCbw/giphy.gif" width="100"/> Меня зовут Светлана Сунцова. 
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTl3ODZvbXRoNDFjNnltcXd5ZWM2bzF6cjB2OWd5bHpjaWQ4ejRnbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8N0nUKt9kDWhl8sCbw/giphy.gif" width="100"/> 
+<h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+
+Меня зовут Светлана Сунцова. 
 Я специалист по анализу данных. Я имею опыт анализа продаж в туристической отрасли. Разбираюсь в бизнес-процессах компании, имею навык подготовки презентаций и отчетов, общения с заказчиками и взаимодействия с командой.
 </div>
 
