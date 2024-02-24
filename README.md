@@ -1,20 +1,22 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExemczZzdkbHBjeWJ2bjljY21ud3BybHRsbDhuZHNleWp2MXoyOW12NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SvckSy7fFviqrq8ClF/giphy.gif" width="200"/>
 </div>
-Меня зовут Светлана Сунцова. Я специалист по анализу данных. Я имею опыт анализа продаж в туристической отрасли. Разбираюсь в бизнес-процессах компании, имею навык подготовки презентаций и отчетов, общения с заказчиками и взаимодействия с командой.
+Меня зовут Светлана Сунцова.   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3NoZnE3cmZndTI5cjZhdDh3dmdydzVjbGU4NnRzaGs1cGhoZThtMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/U3smyJhYEJiyrcw8CL/giphy.gif" width="200"/>
+
+Я специалист по анализу данных. Я имею опыт анализа продаж в туристической отрасли. Разбираюсь в бизнес-процессах компании, имею навык подготовки презентаций и отчетов, общения с заказчиками и взаимодействия с командой.
 </div>
+
+
+Я прошла курсы по Python, SQL, статистике и теории вероятности, анализу данных на R. В рамках обучения специалиазации "Аналитик данных" в Карпов.Курсы изучила библиотеки для анализа данных (Pandas, Numpy, Matplotlib, Seaborn), визуалиазацию данных в Tableau, Redash и Superset, сложные запросы в ClickHouse и PostgreSQL, систему контроля версий Git, проведение A/B тестов. Умею рассчитывать продуктовые метрики, проводить статистические тесты,  бутстрэп-анализ.
+
+
+# Контакты:
 </div>
 <div id="badges">
   <a href="https://t.me/Svet_lana897">
     <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge"/>
   </a>
 </div>
-
-Я прошла курсы по Python, SQL, статистике и теории вероятности, анализу данных на R. В рамках обучения специалиазации "Аналитик данных" в Карпов.Курсы изучила библиотеки для анализа данных (Pandas, Numpy, Matplotlib, Seaborn), визуалиазацию данных в Tableau, Redash и Superset, сложные запросы в ClickHouse и PostgreSQL, систему контроля версий Git, проведение A/B тестов. Умею рассчитывать продуктовые метрики, проводить статистические тесты,  бутстрэп-анализ.
-
-
-# Контакты:
-#### https://t.me/Svet_lana897
 
 # Обучение
 ![Сертификат аналитик данных рус_page-0001](https://github.com/SvetlanaSuntsova/SvetlanaSuntsova/assets/152259002/bc1aa589-3513-470e-931c-7e0fa33b2189)
