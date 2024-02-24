@@ -4,7 +4,7 @@
 Меня зовут Светлана Сунцова. Я специалист по анализу данных. Я имею опыт анализа продаж в туристической отрасли. Разбираюсь в бизнес-процессах компании, имею навык подготовки презентаций и отчетов, общения с заказчиками и взаимодействия с командой.
 </div>
 <div id="badges">
-  <a href="your-linkedin-URL">
+  <a href="https://t.me/Svet_lana897">
     <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge"/>
   </a>
 </div>
