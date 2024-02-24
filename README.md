@@ -2,7 +2,13 @@
   Привет!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-Меня зовут Светлана Сунцова. Я специалист по анализу данных. Я имею опыт анализа продаж в туристической отрасли. Разбираюсь в бизнес-процессах компании, имею навык подготовки презентаций и отчетов, общения с заказчиками и взаимодействия с командой.
+:woman_technologist: Меня зовут Светлана Сунцова. Я специалист по анализу данных. Я имею опыт анализа продаж в по категориям, регионам, каналам, периодам. Разбираюсь в бизнес-процессах компании, имею навык подготовки презентаций и отчетов, общения с заказчиками и взаимодействия с командой. Умею:
+
+- :seedling: рассчитывать продуктовые метрики;
+
+- :surfing_woman: проводить статистические тесты;
+  
+- :weight_lifting: проводить бутстрэп-анализ.
 <h1> Языки и инструменты:
 </h1>
 <div>
@@ -21,11 +27,6 @@
   <img src="https://github.com/mwaskom/seaborn/blob/master/doc/_static/logo-wide-lightbg.svg" title="Seaborn" alt="Seaborn" width="50" height="50"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-original-wordmark.svg" title="Plotly"  alt="Plotly" width="50" height="50"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original-wordmark.svg" title="Matplotlib" alt="Matplotlib" width="50" height="50"/>&nbsp;
-
-
-
-</div>
-Я прошла курсы по Python, SQL, статистике и теории вероятности, анализу данных на R. В рамках обучения специалиазации "Аналитик данных" в Карпов.Курсы изучила библиотеки для анализа данных (Pandas, Numpy, Matplotlib, Seaborn), визуалиазацию данных в Tableau, Redash и Superset, сложные запросы в ClickHouse и PostgreSQL, систему контроля версий Git, проведение A/B тестов. Умею рассчитывать продуктовые метрики, проводить статистические тесты,  бутстрэп-анализ.
 
 
 # Контакты:
