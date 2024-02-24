@@ -1,7 +1,9 @@
 # Обо мне
 ###### Меня зовут Светлана Сунцова. Я специалист по анализу данных. Я имею опыт анализа продаж в туристической отрасли. Разбираюсь в бизнес-процессах компании, имею навык подготовки презентаций и отчетов, общения с заказчиками и взаимодействия с командой.
 
-![image](https://github.com/SvetlanaSuntsova/SvetlanaSuntsova/assets/152259002/da227ce2-35b5-46f7-99fc-255067fefa99)
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjNpcTZldmJteTU3dWZuMDZuMDEwOHh1cGprZ3kyazY5cWpnbW02YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8N0nUKt9kDWhl8sCbw/giphy.gif" width="100"/>
+</div>
 
 
 
