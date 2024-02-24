@@ -1,6 +1,5 @@
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTl3ODZvbXRoNDFjNnltcXd5ZWM2bzF6cjB2OWd5bHpjaWQ4ejRnbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8N0nUKt9kDWhl8sCbw/giphy.gif" width="100"/> 
 <h1>
-  hey there
+  Привет!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
