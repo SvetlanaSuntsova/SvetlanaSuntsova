@@ -36,6 +36,12 @@
     <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge"/>
   </a>
 </div>
+</div>
+<div id="badges">
+  <a href="mailto:vum-ka@yandex.ru">
+    <img src="https://img.shields.io/badge/e--mail-red?style=flat"  width="60" height="30"/>
+  </a>
+</div>
 
 <h1> Проекты:
 </h1>
