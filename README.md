@@ -56,6 +56,23 @@
 - Aвтоматизация отчетности с помощью Airflow;
 - Система алертов по ключевым метрикам.
 
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Dropdown List with Links Example</title>
+</head>
+<body>
+
+<h2>Choose a website:</h2>
+
+<select>
+  <option value="https://github.com/SvetlanaSuntsova/SvetlanaSuntsova/assets/152259002/bc1aa589-3513-470e-931c-7e0fa33b2189">Сертификат_аналитик_данных</option>
+
+</select>
+
+</body>
+</html>
+
 
   # Обучение:
 ![Сертификат аналитик данных рус_page-0001](https://github.com/SvetlanaSuntsova/SvetlanaSuntsova/assets/152259002/bc1aa589-3513-470e-931c-7e0fa33b2189)
