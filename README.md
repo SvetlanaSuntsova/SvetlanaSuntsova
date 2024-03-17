@@ -61,14 +61,18 @@
   
 <div class="dropdown">
   <div id="myDropdown" class="dropdown-content">
-    <a href="https://github.com/SvetlanaSuntsova/SvetlanaSuntsova/assets/152259002/bc1aa589-3513-470e-931c-7e0fa33b2189">Сертификат аналитик данных</a><br>
-        <a href="#">Ссылка 2</a>
-    <a href="#">Ссылка 3</a>
+    <a href="https://github.com/SvetlanaSuntsova/SvetlanaSuntsova/assets/152259002/bc1aa589-3513-470e-931c-7e0fa33b2189">Сертификат Аналитик данных</a><br>
+        <a href="https://github.com/SvetlanaSuntsova/SvetlanaSuntsova/assets/152259002/d5de45a0-b05f-48b5-aa5a-877d07909b7f">Сертификат Python</a><br>
+    <a href="https://github.com/SvetlanaSuntsova/SvetlanaSuntsova/assets/152259002/b731948e-d1c0-45ae-9f0d-c528ff7981ed">Интерактивный тренажёр SQL</a><br>
+        <a href="https://github.com/SvetlanaSuntsova/SvetlanaSuntsova/assets/152259002/beb98b88-18fa-4b26-8276-5c52d36dc393">Симулятор SQL</a><br>
+  <a href="">Статистика</a><br>
+        <a href="https://github.com/SvetlanaSuntsova/SvetlanaSuntsova/assets/152259002/42fc41b4-4581-4205-a2fc-199cd91ad58f">Анализ данных в R</a><br>
+    
   </div>
 </div>
 
 
-![Поколение Python курс для продвинутых_page-0001](https://github.com/SvetlanaSuntsova/SvetlanaSuntsova/assets/152259002/d5de45a0-b05f-48b5-aa5a-877d07909b7f)
+
 
 ![Интерактивный тренажер по SQL](https://github.com/SvetlanaSuntsova/SvetlanaSuntsova/assets/152259002/b731948e-d1c0-45ae-9f0d-c528ff7981ed)
 
