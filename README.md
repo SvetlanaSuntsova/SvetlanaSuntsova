@@ -56,18 +56,17 @@
 - Aвтоматизация отчетности с помощью Airflow;
 - Система алертов по ключевым метрикам.
 
+
+  # Обучение:
+  
 <div class="dropdown">
-  <button onclick="myFunction()" class="dropbtn">Выпадающий</button>
   <div id="myDropdown" class="dropdown-content">
-    <a href="https://github.com/SvetlanaSuntsova/SvetlanaSuntsova/assets/152259002/bc1aa589-3513-470e-931c-7e0fa33b2189">Ссылка 1</a>
-    <a href="#">Ссылка 2</a>
+    <a href="https://github.com/SvetlanaSuntsova/SvetlanaSuntsova/assets/152259002/bc1aa589-3513-470e-931c-7e0fa33b2189">Сертификат аналитик данных</a><br>
+        <a href="#">Ссылка 2</a>
     <a href="#">Ссылка 3</a>
   </div>
 </div>
 
-
-  # Обучение:
-![Сертификат аналитик данных рус_page-0001](https://github.com/SvetlanaSuntsova/SvetlanaSuntsova/assets/152259002/bc1aa589-3513-470e-931c-7e0fa33b2189)
 
 ![Поколение Python курс для продвинутых_page-0001](https://github.com/SvetlanaSuntsova/SvetlanaSuntsova/assets/152259002/d5de45a0-b05f-48b5-aa5a-877d07909b7f)
 
