@@ -65,7 +65,7 @@
         <a href="https://github.com/SvetlanaSuntsova/SvetlanaSuntsova/assets/152259002/d5de45a0-b05f-48b5-aa5a-877d07909b7f">Сертификат Python</a><br>
     <a href="https://github.com/SvetlanaSuntsova/SvetlanaSuntsova/assets/152259002/b731948e-d1c0-45ae-9f0d-c528ff7981ed">Интерактивный тренажёр SQL</a><br>
         <a href="https://github.com/SvetlanaSuntsova/SvetlanaSuntsova/assets/152259002/beb98b88-18fa-4b26-8276-5c52d36dc393">Симулятор SQL</a><br>
-  <a href="">Статистика</a><br>
+  <a href="https://github.com/SvetlanaSuntsova/SvetlanaSuntsova/assets/152259002/de3ef1ca-5213-4c20-adcc-965f524690b3">Статистика</a><br>
         <a href="https://github.com/SvetlanaSuntsova/SvetlanaSuntsova/assets/152259002/42fc41b4-4581-4205-a2fc-199cd91ad58f">Анализ данных в R</a><br>
     
   </div>
